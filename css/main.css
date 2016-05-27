@@ -1,0 +1,52 @@
+/*main font styling*/
+
+li {
+  font-family: 'codystar', cursive;
+  font-weight: bolder;
+  font-size: 13pt;
+}
+
+.hello_message h1{
+  font-family: 'pacifico',sans-serif;
+}
+
+.jumbotron {
+  height: 360px;
+  padding-top: 20px;
+}
+
+.hello_message p{
+  font-family: 'lora', cursive;
+  margin: 20px;
+}
+
+footer p{
+  font-family: 'condiment', cursive;
+  font-size: 15pt;
+}
+
+/*jumbotron styling begins*/
+.hello_message{
+
+}
+
+
+body {
+  margin: 0;
+}
+
+/*footer styling begins*/
+footer{
+  height: 210px;
+  background-color: black;
+  color: white;
+  border: solid darkgray 4px;
+}
+.icon{
+    margin-left: 45%;
+    font-size: 40pt;
+    margin-top: 40px;
+  }
+.copyright{
+  margin-left: 41%;
+}
